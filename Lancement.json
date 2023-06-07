@@ -16,8 +16,8 @@
                 "slug": "spacex"
             },
             "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
+                "id": 3,
+                "name": "Falcon Heavy",
                 "company_id": 1,
                 "slug": "falcon-9"
             },
@@ -41,7 +41,7 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-87 (5-11) mission on Friday, June 9, 2023 at 7:56 AM (UTC).",
+            "launch_description": "Ceci est un test.",
             "win_open": null,
             "t0": "2023-06-09T07:56Z",
             "win_close": null,
