@@ -8,7 +8,7 @@
         {
             "id": 3521,
             "cospar_id": "",
-            "sort_date": "1686382860",
+            "sort_date": "1686467160",
             "name": "Starlink-87 (5-11)",
             "provider": {
                 "id": 1,
@@ -41,9 +41,9 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-87 (5-11) mission on Saturday, June 10, 2023 at 7:41 AM (UTC).",
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink-87 (5-11) mission on Sunday, June 11, 2023 at 7:06 AM (UTC).",
             "win_open": null,
-            "t0": "2023-06-10T07:41Z",
+            "t0": "2023-06-11T07:06Z",
             "win_close": null,
             "est_date": {
                 "month": 6,
@@ -51,7 +51,7 @@
                 "year": 2023,
                 "quarter": null
             },
-            "date_str": "Jun 10",
+            "date_str": "Jun 11",
             "tags": [
                 {
                     "id": 92,
@@ -65,16 +65,16 @@
             "weather_wind_mph": null,
             "weather_icon": null,
             "weather_updated": null,
-            "quicktext": "Falcon 9 - Starlink-87 (5-11) - Jun 10 (estimated) - https://rocketlaunch.live/launch/starlink-5-11 for info/stream",
+            "quicktext": "Falcon 9 - Starlink-87 (5-11) - Jun 11 (estimated) - https://rocketlaunch.live/launch/starlink-5-11 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-06-06T12:14:47+00:00"
+            "modified": "2023-06-08T01:37:51+00:00"
         },
         {
             "id": 3174,
             "cospar_id": "",
-            "sort_date": "1686614396",
+            "sort_date": "1686604440",
             "name": "Transporter-8",
             "provider": {
                 "id": 1,
@@ -107,9 +107,9 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Transporter-8 mission. The launch date is currently targeted for June 12, 2023 (UTC).",
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Transporter-8 mission on Monday, June 12, 2023 at 9:14 PM (UTC).",
             "win_open": null,
-            "t0": null,
+            "t0": "2023-06-12T21:14Z",
             "win_close": null,
             "est_date": {
                 "month": 6,
@@ -130,7 +130,7 @@
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-06-05T01:21:02+00:00"
+            "modified": "2023-06-08T12:13:03+00:00"
         },
         {
             "id": 3324,
