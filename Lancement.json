@@ -16,8 +16,8 @@
                 "slug": "spacex"
             },
             "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
+                "id": 2,
+                "name": "Falcon Heavy",
                 "company_id": 1,
                 "slug": "falcon-9"
             },
@@ -82,8 +82,8 @@
                 "slug": "spacex"
             },
             "vehicle": {
-                "id": 2,
-                "name": "Falcon Heavy",
+                "id": 1,
+                "name": "Falcon 9",
                 "company_id": 1,
                 "slug": "falcon-9"
             },
