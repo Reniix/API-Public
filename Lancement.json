@@ -54,6 +54,10 @@
             "date_str": "Jun 12",
             "tags": [
                 {
+                    "id": 112,
+                    "text": "B1073"
+                },
+                {
                     "id": 92,
                     "text": "Series: SpaceX Starlink"
                 }
@@ -69,12 +73,12 @@
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-06-09T00:33:57+00:00"
+            "modified": "2023-06-11T15:36:38+00:00"
         },
         {
             "id": 3174,
             "cospar_id": "",
-            "sort_date": "1686604440",
+            "sort_date": "1686604740",
             "name": "Transporter-8",
             "provider": {
                 "id": 1,
@@ -107,9 +111,9 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Transporter-8 mission on Monday, June 12, 2023 at 9:14 PM (UTC).",
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Transporter-8 mission on Monday, June 12, 2023 at 9:19 PM (UTC).",
             "win_open": null,
-            "t0": "2023-06-12T21:14Z",
+            "t0": "2023-06-12T21:19Z",
             "win_close": null,
             "est_date": {
                 "month": 6,
@@ -118,7 +122,12 @@
                 "quarter": null
             },
             "date_str": "Jun 12",
-            "tags": [],
+            "tags": [
+                {
+                    "id": 111,
+                    "text": "B1071"
+                }
+            ],
             "slug": "transporter-8",
             "weather_summary": null,
             "weather_temp": null,
@@ -130,7 +139,7 @@
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-06-08T12:13:03+00:00"
+            "modified": "2023-06-11T15:12:36+00:00"
         },
         {
             "id": 3324,
@@ -210,7 +219,7 @@
         {
             "id": 3529,
             "cospar_id": "",
-            "sort_date": "1687046396",
+            "sort_date": "1687211640",
             "name": "Satria",
             "provider": {
                 "id": 1,
@@ -243,17 +252,17 @@
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Satria mission. The launch date is currently targeted for June 17, 2023 (UTC).",
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Satria mission on Monday, June 19, 2023 at 9:54 PM (UTC).",
             "win_open": null,
-            "t0": null,
+            "t0": "2023-06-19T21:54Z",
             "win_close": null,
             "est_date": {
                 "month": 6,
-                "day": 17,
+                "day": 19,
                 "year": 2023,
                 "quarter": null
             },
-            "date_str": "Jun 17",
+            "date_str": "Jun 19",
             "tags": [
                 {
                     "id": 24,
@@ -267,11 +276,11 @@
             "weather_wind_mph": null,
             "weather_icon": null,
             "weather_updated": null,
-            "quicktext": "Falcon 9 - Satria - Jun 17 (estimated) - https://rocketlaunch.live/launch/satria for info/stream",
+            "quicktext": "Falcon 9 - Satria - Jun 19 (estimated) - https://rocketlaunch.live/launch/satria for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2023-06-06T12:14:01+00:00"
+            "modified": "2023-06-10T00:44:57+00:00"
         },
         {
             "id": 219,
