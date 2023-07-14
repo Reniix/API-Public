@@ -149,7 +149,7 @@
             "id": 3567,
             "cospar_id": "",
             "sort_date": "1689550200",
-            "name": ""Baby Come Back" (Starling)",
+            "name": "Baby Come Back (Starling)",
             "provider": {
                 "id": 26,
                 "name": "Rocket Lab",
@@ -176,12 +176,12 @@
             "missions": [
                 {
                     "id": 5401,
-                    "name": ""Baby Come Back" (Starling)",
+                    "name": "Baby Come Back (Starling)",
                     "description": null
                 }
             ],
             "mission_description": null,
-            "launch_description": "A Rocket Lab Electron rocket will launch the "Baby Come Back" (Starling) mission on Sunday, July 16, 2023 at 11:30 PM (UTC).",
+            "launch_description": "A Rocket Lab Electron rocket will launch the Baby Come Back (Starling) mission on Sunday, July 16, 2023 at 11:30 PM (UTC).",
             "win_open": null,
             "t0": "2023-07-16T23:30Z",
             "win_close": null,
@@ -200,7 +200,7 @@
             "weather_wind_mph": null,
             "weather_icon": null,
             "weather_updated": null,
-            "quicktext": "Electron - "Baby Come Back" (Starling) - Jul 16 (estimated) - https://rocketlaunch.live/launch/baby-come-back-starl for info/stream",
+            "quicktext": "Electron - Baby Come Back (Starling) - Jul 16 (estimated) - https://rocketlaunch.live/launch/baby-come-back-starl for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
