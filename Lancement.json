@@ -2,80 +2,141 @@
     "valid_auth": false,
     "count": 5,
     "limit": 5,
-    "total": 124,
-    "last_page": 25,
+    "total": 5,
+    "last_page": 1,
     "result": [
         {
-            "id": 4033,
+            "id": 4980,
             "cospar_id": null,
-            "sort_date": "1707862620",
-            "name": "Starlink 7-14",
+            "sort_date": "1734603600",
+            "name": "TBD",
             "provider": {
-                "id": 1,
-                "name": "SpaceX",
-                "slug": "spacex"
+                "id": 134,
+                "name": "Galactic Energy",
+                "slug": "galactic-energy"
             },
             "vehicle": {
-                "id": 1,
-                "name": "Falcon 9",
-                "company_id": 1,
-                "slug": "falcon-9"
+                "id": 113,
+                "name": "Ceres-1",
+                "company_id": 134,
+                "slug": "ceres-1"
             },
             "pad": {
-                "id": 1,
-                "name": "SLC-4E",
+                "id": 60,
+                "name": "Sea Launch",
                 "location": {
-                    "id": 60,
-                    "name": "Vandenberg SFB",
-                    "state": "CA",
-                    "statename": "California",
-                    "country": "United States",
-                    "slug": "vandenberg-sfb"
+                    "id": 74,
+                    "name": "Yellow Sea",
+                    "state": null,
+                    "statename": null,
+                    "country": "China",
+                    "slug": "yellow-sea"
                 }
             },
             "missions": [
                 {
-                    "id": 6013,
-                    "name": "Starlink 7-14",
+                    "id": 7323,
+                    "name": "TBD",
                     "description": null
                 }
             ],
             "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Starlink 7-14 mission on Tuesday, February 13, 2024 at 10:17 PM (UTC).",
+            "launch_description": "A Galactic Energy Ceres-1 rocket will launch the TBD mission on Thursday, December 19, 2024 at 10:20 AM (UTC).",
             "win_open": null,
-            "t0": "2024-02-13T22:17Z",
+            "t0": "2024-12-19T10:20Z",
             "win_close": null,
             "est_date": {
-                "month": 2,
-                "day": 13,
+                "month": 12,
+                "day": 19,
                 "year": 2024,
                 "quarter": null
             },
-            "date_str": "Feb 13",
+            "date_str": "Dec 19",
             "tags": [
                 {
-                    "id": 92,
-                    "text": "Series: SpaceX Starlink"
+                    "id": 53,
+                    "text": "Unconfirmed Payload"
                 }
             ],
-            "slug": "starlink-7-14",
+            "slug": "tbd",
             "weather_summary": null,
             "weather_temp": null,
             "weather_condition": null,
             "weather_wind_mph": null,
             "weather_icon": null,
             "weather_updated": null,
-            "quicktext": "Falcon 9 - Starlink 7-14 - Feb 13 (estimated) - https://rocketlaunch.live/launch/starlink-7-14 for info/stream",
+            "quicktext": "Ceres-1 - TBD - Dec 19 (estimated) - https://rocketlaunch.live/launch/tbd for info/stream",
             "media": [],
             "result": null,
             "suborbital": false,
-            "modified": "2024-02-10T23:08:31+00:00"
+            "modified": "2024-12-14T15:14:54+00:00"
         },
         {
-            "id": 505,
+            "id": 4945,
             "cospar_id": "",
-            "sort_date": "1707890220",
-            "name": "Nova-C IM-1",
+            "sort_date": "1734616800",
+            "name": "Owl The Way Up",
+            "provider": {
+                "id": 26,
+                "name": "Rocket Lab",
+                "slug": "rocket-lab"
+            },
+            "vehicle": {
+                "id": 18,
+                "name": "Electron",
+                "company_id": 26,
+                "slug": "electron"
+            },
+            "pad": {
+                "id": 88,
+                "name": "Pad TBD",
+                "location": {
+                    "id": 20,
+                    "name": "Rocket Lab Launch Complex, Mahia Peninsula",
+                    "state": null,
+                    "statename": null,
+                    "country": "New Zealand",
+                    "slug": "rocket-lab-launch-complex-mahia-peninsula"
+                }
+            },
+            "missions": [
+                {
+                    "id": 7288,
+                    "name": "StriX-2",
+                    "description": "'Owl the Way Up' is the sixth of sixteen dedicated Electron missions for Japanese Earth Observation company Synspective."
+                }
+            ],
+            "mission_description": "'Owl the Way Up' is the sixth of sixteen dedicated Electron missions for Japanese Earth Observation company Synspective.",
+            "launch_description": "A Rocket Lab Electron rocket will launch the 'Owl The Way Up' mission on Thursday, December 19, 2024 at 2:00 PM (UTC).",
+            "win_open": "2024-12-19T14:00Z",
+            "t0": "2024-12-19T14:00Z",
+            "win_close": "2024-12-19T15:15Z",
+            "est_date": {
+                "month": null,
+                "day": null,
+                "year": null,
+                "quarter": null
+            },
+            "date_str": "Dec 19",
+            "tags": [],
+            "slug": "owl-the-way-up",
+            "weather_summary": null,
+            "weather_temp": null,
+            "weather_condition": null,
+            "weather_wind_mph": null,
+            "weather_icon": null,
+            "weather_updated": null,
+            "quicktext": "Electron - 'Owl The Way Up' - Thu Dec 19, 2024 14:00:00 UTC (L-06:15:54) - https://rocketlaunch.live/launch/owl-the-way-up for info/stream",
+            "media": [],
+            "result": -1,
+            "suborbital": false,
+            "modified": "2024-12-17T02:23:44+00:00"
+        },
+        {
+            "id": 3625,
+            "cospar_id": "",
+            "sort_date": "1734695580",
+            "name": "Bandwagon 2",
             "provider": {
                 "id": 1,
                 "name": "SpaceX",
@@ -88,68 +149,121 @@
                 "slug": "falcon-9"
             },
             "pad": {
-                "id": 2,
-                "name": "LC-39A",
+                "id": 56,
+                "name": "Pad TBD",
                 "location": {
-                    "id": 61,
-                    "name": "Kennedy Space Center",
+                    "id": 52,
+                    "name": "Cape Canaveral / KSC TBD",
                     "state": "FL",
                     "statename": "Florida",
                     "country": "United States",
-                    "slug": "kennedy-space-center"
+                    "slug": "cape-canaveral-ksc-tbd"
                 }
             },
             "missions": [
                 {
-                    "id": 488,
-                    "name": "Nova-C IM-1",
-                    "description": "First lunar lander built and launched for NASA's CLPS program. This will be the first commercial lunar landing if successful."
+                    "id": 5465,
+                    "name": "Bandwagon 2",
+                    "description": null
                 }
             ],
-            "mission_description": "First lunar lander built and launched for NASA's CLPS program. This will be the first commercial lunar landing if successful.",
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the Nova-C IM-1 mission on Wednesday, February 14, 2024 at 5:57 AM (UTC).",
-            "win_open": null,
-            "t0": "2024-02-14T05:57Z",
+            "mission_description": null,
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Bandwagon 2 mission on Friday, December 20, 2024 at 11:53 AM (UTC).",
+            "win_open": "2024-12-20T11:53Z",
+            "t0": "2024-12-20T11:53Z",
             "win_close": null,
             "est_date": {
-                "month": 2,
-                "day": 14,
-                "year": 2024,
+                "month": null,
+                "day": null,
+                "year": null,
                 "quarter": null
             },
-            "date_str": "Feb 14",
-            "tags": [
-                {
-                    "id": 54,
-                    "text": "Lunar Lander"
-                },
-                {
-                    "id": 13,
-                    "text": "LZ-1 Landing"
-                },
-                {
-                    "id": 102,
-                    "text": "NASA Commercial Lunar Payload Services (CLPS)"
-                }
-            ],
-            "slug": "nova-c",
+            "date_str": "Dec 20",
+            "tags": [],
+            "slug": "bandwagon-2",
             "weather_summary": null,
             "weather_temp": null,
             "weather_condition": null,
             "weather_wind_mph": null,
             "weather_icon": null,
             "weather_updated": null,
-            "quicktext": "Falcon 9 - Nova-C IM-1 - Feb 14 (estimated) - https://rocketlaunch.live/launch/nova-c for info/stream",
+            "quicktext": "Falcon 9 - Bandwagon 2 - Fri Dec 20, 2024 11:53:00 UTC (L-1 days, 04:08:54) - https://rocketlaunch.live/launch/bandwagon-2 for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2024-02-05T13:25:11+00:00"
+            "modified": "2024-12-16T10:20:39+00:00"
         },
         {
-            "id": 3744,
+            "id": 4986,
+            "cospar_id": null,
+            "sort_date": "1734707400",
+            "name": "TBD",
+            "provider": {
+                "id": 157,
+                "name": "CASC",
+                "slug": "casc"
+            },
+            "vehicle": {
+                "id": 28,
+                "name": "Long March 3B",
+                "company_id": 41,
+                "slug": "long-march-3b"
+            },
+            "pad": {
+                "id": 16,
+                "name": "LC-2",
+                "location": {
+                    "id": 28,
+                    "name": "Xichang Satellite Launch Center",
+                    "state": null,
+                    "statename": null,
+                    "country": "China",
+                    "slug": "xichang-satellite-launch-center"
+                }
+            },
+            "missions": [
+                {
+                    "id": 7329,
+                    "name": "TBD",
+                    "description": "Launch vehicle unconfirmed and may change."
+                }
+            ],
+            "mission_description": "Launch vehicle unconfirmed and may change.",
+            "launch_description": "A CASC Long March 3B rocket will launch the TBD mission on Friday, December 20, 2024 at 3:10 PM (UTC).",
+            "win_open": null,
+            "t0": "2024-12-20T15:10Z",
+            "win_close": null,
+            "est_date": {
+                "month": 12,
+                "day": 20,
+                "year": 2024,
+                "quarter": null
+            },
+            "date_str": "Dec 20",
+            "tags": [
+                {
+                    "id": 53,
+                    "text": "Unconfirmed Payload"
+                }
+            ],
+            "slug": "tbd-",
+            "weather_summary": null,
+            "weather_temp": null,
+            "weather_condition": null,
+            "weather_wind_mph": null,
+            "weather_icon": null,
+            "weather_updated": null,
+            "quicktext": "Long March 3B - TBD - Dec 20 (estimated) - https://rocketlaunch.live/launch/tbd- for info/stream",
+            "media": [],
+            "result": null,
+            "suborbital": false,
+            "modified": "2024-12-18T16:21:02+00:00"
+        },
+        {
+            "id": 3523,
             "cospar_id": "",
-            "sort_date": "1707949800",
-            "name": "USSF-124",
+            "sort_date": "1734752340",
+            "name": "Astranis Block 2",
             "provider": {
                 "id": 1,
                 "name": "SpaceX",
@@ -175,191 +289,41 @@
             },
             "missions": [
                 {
-                    "id": 5677,
-                    "name": "USSF-124",
-                    "description": null
+                    "id": 5356,
+                    "name": "Astranis Block 2",
+                    "description": "Mission will launch 4 MicroGEO satellites for Astranis."
                 }
             ],
-            "mission_description": null,
-            "launch_description": "A SpaceX Falcon 9 rocket will launch the USSF-124 mission on Wednesday, February 14, 2024 at 10:30 PM (UTC).",
+            "mission_description": "Mission will launch 4 MicroGEO satellites for Astranis.",
+            "launch_description": "A SpaceX Falcon 9 rocket will launch the Astranis Block 2 mission on Saturday, December 21, 2024 at 3:39 AM (UTC).",
             "win_open": null,
-            "t0": "2024-02-14T22:30Z",
+            "t0": "2024-12-21T03:39Z",
             "win_close": null,
             "est_date": {
-                "month": 2,
-                "day": 14,
+                "month": null,
+                "day": null,
                 "year": 2024,
                 "quarter": null
             },
-            "date_str": "Feb 14",
+            "date_str": "Dec 21",
             "tags": [
                 {
-                    "id": 8,
-                    "text": "Classified Payload"
-                },
-                {
-                    "id": 13,
-                    "text": "LZ-1 Landing"
+                    "id": 24,
+                    "text": "Communications Satellite"
                 }
             ],
-            "slug": "ussf-124",
+            "slug": "microgeo",
             "weather_summary": null,
             "weather_temp": null,
             "weather_condition": null,
             "weather_wind_mph": null,
             "weather_icon": null,
             "weather_updated": null,
-            "quicktext": "Falcon 9 - USSF-124 - Feb 14 (estimated) - https://rocketlaunch.live/launch/ussf-124 for info/stream",
+            "quicktext": "Falcon 9 - Astranis Block 2 - Dec 21 (estimated) - https://rocketlaunch.live/launch/microgeo for info/stream",
             "media": [],
             "result": -1,
             "suborbital": false,
-            "modified": "2024-02-10T17:14:29+00:00"
-        },
-        {
-            "id": 3939,
-            "cospar_id": null,
-            "sort_date": "1707956520",
-            "name": "VEP 4",
-            "provider": {
-                "id": 22,
-                "name": "JAXA",
-                "slug": "jaxa"
-            },
-            "vehicle": {
-                "id": 136,
-                "name": "H-3",
-                "company_id": 135,
-                "slug": "h-3"
-            },
-            "pad": {
-                "id": 30,
-                "name": "LA-Y2",
-                "location": {
-                    "id": 19,
-                    "name": "Tanegashima Space Center",
-                    "state": null,
-                    "statename": null,
-                    "country": "Japan",
-                    "slug": "tanegashima-space-center"
-                }
-            },
-            "missions": [
-                {
-                    "id": 5909,
-                    "name": "VEP 4",
-                    "description": "This launch will now carry a mass simulator (Vehicle Evaluation Payload 4) instead of the ALOS-4 Earth observation satellite that was originally planned."
-                },
-                {
-                    "id": 5986,
-                    "name": "CE-SAT-1E",
-                    "description": null
-                },
-                {
-                    "id": 5987,
-                    "name": "TIRSAT",
-                    "description": null
-                }
-            ],
-            "mission_description": "This launch will now carry a mass simulator (Vehicle Evaluation Payload 4) instead of the ALOS-4 Earth observation satellite that was originally planned.",
-            "launch_description": "A JAXA H-3 rocket will launch the VEP 4 mission on Thursday, February 15, 2024 at 12:22 AM (UTC).",
-            "win_open": null,
-            "t0": "2024-02-15T00:22Z",
-            "win_close": null,
-            "est_date": {
-                "month": 2,
-                "day": 15,
-                "year": 2024,
-                "quarter": null
-            },
-            "date_str": "Feb 15",
-            "tags": [
-                {
-                    "id": 25,
-                    "text": "Earth Observation Satellite"
-                },
-                {
-                    "id": 23,
-                    "text": "Test Flight"
-                }
-            ],
-            "slug": "test-flight-2",
-            "weather_summary": null,
-            "weather_temp": null,
-            "weather_condition": null,
-            "weather_wind_mph": null,
-            "weather_icon": null,
-            "weather_updated": null,
-            "quicktext": "H-3 - VEP 4 - Feb 15 (estimated) - https://rocketlaunch.live/launch/test-flight-2 for info/stream",
-            "media": [],
-            "result": null,
-            "suborbital": false,
-            "modified": "2024-02-07T11:20:24+00:00"
-        },
-        {
-            "id": 4007,
-            "cospar_id": null,
-            "sort_date": "1707967500",
-            "name": "Progress MS-26",
-            "provider": {
-                "id": 13,
-                "name": "Roscosmos",
-                "slug": "roscosmos"
-            },
-            "vehicle": {
-                "id": 20,
-                "name": "Soyuz-2",
-                "company_id": 13,
-                "slug": "soyuz-2"
-            },
-            "pad": {
-                "id": 28,
-                "name": "LC-31/6",
-                "location": {
-                    "id": 50,
-                    "name": "Baikonur Cosmodrome",
-                    "state": null,
-                    "statename": null,
-                    "country": "Kazakhstan",
-                    "slug": "baikonur-cosmodrome"
-                }
-            },
-            "missions": [
-                {
-                    "id": 5983,
-                    "name": "Progress MS-26",
-                    "description": null
-                }
-            ],
-            "mission_description": null,
-            "launch_description": "A Roscosmos Soyuz-2 rocket will launch the Progress MS-26 mission on Thursday, February 15, 2024 at 3:25 AM (UTC).",
-            "win_open": null,
-            "t0": "2024-02-15T03:25Z",
-            "win_close": null,
-            "est_date": {
-                "month": 2,
-                "day": 15,
-                "year": 2024,
-                "quarter": null
-            },
-            "date_str": "Feb 15",
-            "tags": [
-                {
-                    "id": 12,
-                    "text": "ISS Cargo"
-                }
-            ],
-            "slug": "progress-ms-26",
-            "weather_summary": null,
-            "weather_temp": null,
-            "weather_condition": null,
-            "weather_wind_mph": null,
-            "weather_icon": null,
-            "weather_updated": null,
-            "quicktext": "Soyuz-2 - Progress MS-26 - Feb 15 (estimated) - https://rocketlaunch.live/launch/progress-ms-26 for info/stream",
-            "media": [],
-            "result": null,
-            "suborbital": false,
-            "modified": "2024-02-01T15:35:28+00:00"
+            "modified": "2024-12-17T23:42:48+00:00"
         }
     ]
 }
